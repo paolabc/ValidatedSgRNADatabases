@@ -17,5 +17,6 @@ Wen C, Guoqiang Z, Jing L, Xuan Z, Shulan H, Shuanglin X, Xiang H, Changning L (
 
 Sanjana NE, Shalem O, Zhang F. Improved vectors and genome-wide libraries for CRISPR screening (2014). Nat Methods.
 
-This Notebook : https://github.com/paolabc/ValidatedSgRNADatabases
+This Notebook : Carneiro, P.(2021).ValidatedSgRNADatabases. https://github.com/paolabc/ValidatedSgRNADatabases
+
 
