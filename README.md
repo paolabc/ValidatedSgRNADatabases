@@ -19,6 +19,6 @@ If you use this notebook, please cite the database article and this noteboook:
 
 - Sanjana NE, Shalem O, Zhang F. Improved vectors and genome-wide libraries for CRISPR screening (2014). Nat Methods.
 
-- This Notebook : Carneiro, P.(2021).ValidatedSgRNADatabases. https://github.com/paolabc/ValidatedSgRNADatabases
+- This Notebook : Carneiro, P. (2022). ValidatedSgRNADatabases. https://github.com/paolabc/ValidatedSgRNADatabases
 
 
